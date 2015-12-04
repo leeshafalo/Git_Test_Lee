@@ -10,7 +10,10 @@ int main(){
 
 	scanf("%d %d", &a, &b);
 
+
 	printf("%d\n", sum(a, b));
+	printf("%d\t", sum(a, b));
+
 
 	return 0;
 }
