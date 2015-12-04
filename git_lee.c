@@ -1,4 +1,7 @@
 #include <stdio.h>
+#include <string.h>
+
+int sum(int a, int b);
 
 int main(){
 
